@@ -46,7 +46,7 @@ Due to GitHub file size limits, the large folders  are uploaded to Google Drive.
 
 Dataset Name: Solar Panel Dataset
 
- **Dataset Name:** [**Solar Panel Dataset**](https://www.kaggle.com/datasets/dk79944/solar-plate-image)
+ **Dataset Link :** [**Solar Panel Dataset**](https://www.kaggle.com/datasets/dk79944/solar-plate-image)
  
  **Source:** **Kaggle (via kagglehub)**  
 
